@@ -18,3 +18,6 @@ int main(void) {
         for(j = i; j < hauteur; j++) {
             printf(" ");
         }
+
+
+        // deuxième partie du sapin
